@@ -1,0 +1,6 @@
+discord.py == 2.3.2 
+requests 
+regex
+zipfile39
+python-IO
+py7zr
